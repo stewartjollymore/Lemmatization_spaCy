@@ -6,6 +6,6 @@ This class can be added directly into the CountVectorizer under the tokenizer se
 
 ```python
 
-vectorizer_model = CountVectorizer(tokenizer=Lemmitization_spaCy())
+vectorizer_model = CountVectorizer(tokenizer=Lemmatizer_spaCy())
 
 ```
